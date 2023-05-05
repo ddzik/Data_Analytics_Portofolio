@@ -23,7 +23,7 @@ Hi! My name is Devy Dzikyan Fauzia, just called me Devy. Here is my Portfolio as
 * A/B Testing
 
 ### Deck :
-[Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/12Mk0sqOXYtuE5--Ekit_IUeNILfXTIAub2UUNj2DN7I/edit?usp=sharing)
+[Property Listing Company Analysis in Spreadsheet](https://docs.google.com/presentation/d/12Mk0sqOXYtuE5--Ekit_IUeNILfXTIAub2UUNj2DN7I/edit?usp=sharing)
 
 ## Python Skill sets:
 * Removing irrelevant values
@@ -48,7 +48,7 @@ Hi! My name is Devy Dzikyan Fauzia, just called me Devy. Here is my Portfolio as
 * Interactive Dashboard
 
 ### Example:
-[E-Commerce Performance Dashboard in Brazil Region](https://docs.google.com/presentation/d/1ZfS9fcShACI5enJOrLna30XmFJbMCQXhJMjIFFd-Bqg/edit?usp=sharing)
+[SambaCommerce Performance Dashboard](https://docs.google.com/presentation/d/1ZfS9fcShACI5enJOrLna30XmFJbMCQXhJMjIFFd-Bqg/edit?usp=sharing)
 
 ## Project Based Analytics
 1. [NYC Traffic Accidents Analysis](https://docs.google.com/presentation/d/1i9o4slIcemxN6yKHey8ecA3kPu1ZRXDJCfgVAkKhqQk/edit#slide=id.p1)
