@@ -1,6 +1,17 @@
 # Data_Analytics_Portofolio
 Hi! My name is Devy Dzikyan Fauzia, just called me Devy. Here is my Portfolio as Data Analyst, please check it out!
 
+## Understanding Business Problems Skill sets"
+* DARCI;
+* Problem Statement:
+* Objective:
+* Hypothesis;
+* Metrics
+
+### Deck :
+1. [Employee Attrition Problem (HR)](https://docs.google.com/presentation/d/1QM8JrYoE64hZhibDm_3D3yao7iGB8DfhOF7MLVojbwE/edit?usp=sharing)
+2. [GoJek - GoRide Metrics](https://docs.google.com/spreadsheets/d/1PEYTWbUQlQ7rGxU3jHRKssU1lT4NJtuP/edit?usp=sharing&ouid=107501703627137596354&rtpof=true&sd=true)
+
 ## Spreadsheet/ Excel Skill sets:
 * Data Cleaning;
 * Query Table;
